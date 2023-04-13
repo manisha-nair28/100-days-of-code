@@ -9,7 +9,6 @@
 
 **Thoughts**: Will also complete my first article on Remix IDE.
 
-**Link(s) to work**: 
 
 
 ### Day 2: January 2, 2023
